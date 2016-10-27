@@ -19,8 +19,8 @@ After you've completed these questions, define your community in several short p
   - Hackers in and around London
 
 ### Size
-- How many people are currently in your community?
-- How many would you _like_ to be in your community?
+- How many people are currently in your community? 200
+- How many would you _like_ to be in your community? 20000
 - Historically, has the group always been about the same size? If not, what brought on that change?
 
 ### Resources
